@@ -1,3 +1,5 @@
+#! /user/bin/env node
+
 function CompleteChat(){
     <View>
         <Text>React Native Complete Chat</Text>
